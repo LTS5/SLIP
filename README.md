@@ -30,7 +30,7 @@ If you find our work useful, please consider citing:
 
 @inproceedings{tomar2025slip,
   title     = {Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology},
-  author    = {Tomar, Devavrat and Vray, Guillaume and Thiran, Jean-Philippe and Bozorgtabar, Behzad},
+  author    = {Tomar, Devavrat and Vray, Guillaume, Mahapatra, Dwarikanath and Roy, Sudipta and Thiran, Jean-Philippe and Bozorgtabar, Behzad},
   booktitle = {IEEE International Symposium on Biomedical Imaging (ISBI)},
   year      = {2025}
 }
