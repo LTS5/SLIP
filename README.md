@@ -1,10 +1,10 @@
 # SLIP: Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology
 
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10980748"><img src="https://img.shields.io/badge/IEEE Xplore-ISBI2025-orange"></a>
+
 This repository contains the official PyTorch implementation of our ISBI 2025 paper:
 
 **"Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology"**
-
-[[Paper Link]](https://arxiv.org/abs/XXXX.XXXXX) 
 
 ---
 
